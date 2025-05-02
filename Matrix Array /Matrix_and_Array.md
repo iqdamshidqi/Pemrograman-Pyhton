@@ -1,4 +1,4 @@
-Berikut adalah **kode Python** yang ditampilkan pada gambar tersebut, saya salin ulang agar bisa kamu gunakan atau modifikasi:
+## No. 2
 
 ```python
 Row = int(input("Enter the number of rows: "))
@@ -26,10 +26,8 @@ for row in range(Row):
 
 ---
 
-### 📌 Penjelasan Singkat:
+### 📌 Penjelasan :
 
-* Program ini meminta pengguna untuk memasukkan ukuran matriks (jumlah baris dan kolom).
-* Kemudian, pengguna diminta mengisi setiap elemen satu per satu sesuai jumlah baris dan kolom.
-* Setelah semua elemen dimasukkan, program mencetak matriks dalam format baris × kolom.
+* `input()` digunakan untuk menerima input dari pengguna dalam bentuk string.
+* `int()` mengubah input string menjadi bilangan bulat (integer).
 
-Ingin saya ubah ke versi NumPy atau tambahkan fitur seperti penjumlahan atau perkalian dua matriks?
