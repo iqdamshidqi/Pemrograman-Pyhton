@@ -1,4 +1,4 @@
-# 🔢 **MINGGU 10: MATRIX AND ARRAY (Python Programming)**
+# 🔢 **MINGGU 9 MATRIX AND ARRAY**
 
 > Pada minggu ini, kamu akan mempelajari dasar manipulasi matriks dan array menggunakan bahasa Python. Materi mencakup pembuatan, akses, modifikasi, serta operasi matematika pada matriks.
 
