@@ -1,4 +1,4 @@
-# **🌀 MINGGU 10 LOOPING**
+# **🌀 MINGGU 9 LOOPING**
 
 ## ✅ Apa Itu Looping?
 
