@@ -1,3 +1,16 @@
+# **🔢 MINGGU 10 MATRIX AND ARRAY**
+
+## No. 1
+```python
+matrix = [[1, 2, 3, 4], 
+          [5, 6, 7, 8],
+          [9, 10, 11, 12]]
+
+print("Matrix =", matrix)
+```
+---
+`matrix =` list dalam vector.
+
 ## No. 2
 
 ```python
@@ -30,4 +43,7 @@ for row in range(Row):
 
 * `input()` digunakan untuk menerima input dari pengguna dalam bentuk string.
 * `int()` mengubah input string menjadi bilangan bulat (integer).
+* `matrix = []` membuat list kosong yang akan diisi dengan data dari pengguna.
+* `a.append()` menambahkan value ke variable a.
+
 
