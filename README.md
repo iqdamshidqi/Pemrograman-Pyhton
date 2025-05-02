@@ -1,7 +1,16 @@
-# Pemrograman-Pyhton
+# 🐍 **Pemrograman Python: Dasar hingga Praktik**
 
-> Python adalah bahasa pemrograman tingkat tinggi yang mudah dipahami dan digunakan secara luas di berbagai bidang seperti data science, web development, automasi, dan lain-lain. Dalam materi ini, kamu akan belajar dasar-dasar Python.
+> Python adalah bahasa pemrograman tingkat tinggi yang populer karena sintaksnya yang sederhana dan kemampuannya yang luas. Python digunakan di berbagai bidang seperti **Data Science**, **Web Development**, **Otomatisasi**, dan **Machine Learning**.
 
-Materi yang akan kita pelajari
-- Basic Command Python
-- Matrix and Array
+---
+
+## 📚 **Materi Pembelajaran**
+
+Kamu akan belajar topik-topik dasar yang penting untuk membangun fondasi dalam pemrograman Python:
+
+---
+
+ * **Basic Command Python**
+ * [🌀 **Buka Materi Looping**](https://github.com/iqdamshidqi/Pemrograman-Pyhton/tree/4d8442dbbe598a2fdd49409b51dfcbe77a3e0fa9/Looping)
+ * [🔢 **Buka Materi Matriks & Array**](https://github.com/iqdamshidqi/Pemrograman-Pyhton/tree/4d8442dbbe598a2fdd49409b51dfcbe77a3e0fa9/Matrix%20Array%20)
+
