@@ -70,8 +70,8 @@ x >= y     # lebih besar atau sama
 "x" > "y" -> if string "x" has larger Unicode value than string "y", return True
 "x" >= "y" -> if string "x" has large or equal than string "y", return True
 ```
+![Uploading image.png…]()
 
-![image.png](attachment:63b0d29d-f2df-47d1-9d1b-5a1ff92a54ec:image.png)
 
 ### 🧠 Fungsi `ord()` dan `chr()`
 
